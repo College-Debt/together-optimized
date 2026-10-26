@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/reflex-antilag.pw.toml"
-hash = "0ac18e35dd0de8f3ab158f58e05d77f64ad7b8dcc30bbb926119e287f3407bed"
+hash = "724c1f79abc26d7ff0cec7f93f1ed1a44e15bff2500b4c7a80d7e6b926d48f03"
 metafile = true
 
 [[files]]
@@ -461,12 +461,12 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "a3c98b17ea14147b41b2823b6246c03de59b6ef80f1b6e5b1d92adabd23a91ae"
+hash = "7326dff013cbe7499db0fa22ac22d4546f57957f5cc6f0d9b030facd0b4b3cde"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3b7a47bee7462b942b54036ac12d3b06708950c624d76ffde1b6dbc0db2dbdd4"
+hash = "1607b9240ae8c220ccf6a90e58a757c894e66c95d0878441efe25b3ec8fefec8"
 metafile = true
 
 [[files]]

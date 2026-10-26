@@ -2,6 +2,19 @@
 
 Fork-specific notes for **Together Optimized** (College Debt SMP). Upstream Fabulously Optimized release notes live in the [upstream CHANGELOG](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md).
 
+## 15.0.0-beta.2.1 (2026-10-26)
+
+Upstream FO version base changed (15.0.0-beta.1 -> 15.0.0-beta.2)
+
+### Fork mod status
+
+#### Minecraft 26.3
+
+Updated:
+- `simple-voice-chat` → fabric-2.6.26+26.3
+- `reflex-antilag` → 1.1.3+fabric-26.3
+- `shulkerboxtooltip` → 5.4.3+26.3-fabric
+
 ## 15.0.0-beta.1.2 (2026-10-19)
 
 Fork mods updated

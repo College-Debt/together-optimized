@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "1b978f774e6c700d7ff517b23d75c523aa3d9f9b05538a455c419aa3b32d660f"
+hash = "52e35b13ef30428dd52e10f1083bff3e9d7e23e07b5e5c60229a13454aa0fd1f"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
@@ -14,11 +14,11 @@ hash = "6f6746cf679aff7028306c331efcb6ffb2a52c68cface8638578e5e8f8a3e424"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "991f3e989641bc9c7863f319c7d5ea6ca26f11f354c78fce2dbb499cf2c99573"
+hash = "26f910f59a4564b3fd6b84126ca720cd55f2712fd4fe38c351fc11151ccbba27"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d11c7120209cbde5fcd47c047348581cafc8fe53e3ce909f4c09e74ebc343214"
+hash = "8ac7fad69675d4752447b52395105dccacf5b62d38a7f2b90e400f8938db426c"
 
 [[files]]
 file = "config/modpack_defaults/config/BBEConfig.json"
@@ -46,7 +46,7 @@ hash = "bfaed4a90f4b3b2ddb8fce57a7c4d9d2011a154c7f6bd8f005e79dff8ead6230"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "1b978f774e6c700d7ff517b23d75c523aa3d9f9b05538a455c419aa3b32d660f"
+hash = "52e35b13ef30428dd52e10f1083bff3e9d7e23e07b5e5c60229a13454aa0fd1f"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/be_by.json"
@@ -138,7 +138,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
-hash = "991f3e989641bc9c7863f319c7d5ea6ca26f11f354c78fce2dbb499cf2c99573"
+hash = "26f910f59a4564b3fd6b84126ca720cd55f2712fd4fe38c351fc11151ccbba27"
 
 [[files]]
 file = "config/modpack_defaults/config/fastquit.toml"
@@ -150,7 +150,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "d11c7120209cbde5fcd47c047348581cafc8fe53e3ce909f4c09e74ebc343214"
+hash = "8ac7fad69675d4752447b52395105dccacf5b62d38a7f2b90e400f8938db426c"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
@@ -258,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "987087289924e794b93b0532826e75ecf98b413d33e4289ffc5c088f28db5963"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8cfd619edd7190fdd7f048bc7815193699d0583857f988e421b8e7816167ad25"
 metafile = true
 
 [[files]]
@@ -371,6 +376,16 @@ hash = "3d5215c890410372168f021d32b50140526057aea646ca3a6f317e424017e550"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "353e7e6605f04764a8fc7f18d7e1833ffd23301f23509a85482654f467fb696f"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "8e53807b917e2df9001d9da63fa43fade8ae1db6ce98853692c16c5be48b96d3"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "aa88b40951918dd0546f3298472a8e76a24f3bd031188db6dbecd311d8f5ca83"
 metafile = true
@@ -396,6 +411,11 @@ hash = "66b148b6999f46ab1f1a47d0818808b2d192b91809748b378a882e9c6160d221"
 metafile = true
 
 [[files]]
+file = "mods/reflex-antilag.pw.toml"
+hash = "7a951ad471771be8951001948d44724dde36a3b7fc5e70ac40db02b2fece3ad1"
+metafile = true
+
+[[files]]
 file = "mods/renice-shot.pw.toml"
 hash = "77d96cc05ce970e06cb3ce6666187e8de34f749b65d4c6a52b76b6d808bf9e35"
 metafile = true
@@ -403,6 +423,16 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "2474d9b8ba6b67c1a23fd4864f27405704373a80aac3e800b8d8553400692c80"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "5d79a93f9dfd1fe63ebbe276056b9b7830f2480c3ffab35db5285d4b3c8a6014"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6865b44c30baa85a87c344ac9d3e0eb0135e90b26a90a6dc28bf79a363170cf9"
 metafile = true
 
 [[files]]
@@ -426,6 +456,16 @@ hash = "172d8f5a3477d8b6d997e6266b778ca50a93a746dd92c809d66e526c4d027dcb"
 metafile = true
 
 [[files]]
+file = "mods/vitrail-shaders.pw.toml"
+hash = "b719aecdc1292a72e0eb441589868e59c24690100250d418bca959144eb18bb0"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "4a28e335b5f26c1bab02d68bc69e8acbd64a06ba1649c82ae385b2f932c5422d"
+metafile = true
+
+[[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
 hash = "2ce849e08a15fb0b7e1efbba0c593b17e813a65437810786ef7351225c11727f"
 metafile = true
@@ -442,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "18aa6d7b2934580784aa70cb14087e2c6d7d64c93cccbb1af5c715370b67ed18"
+hash = "5d8684dd1a8ab2d58e0e8accb13b8e47295388a34a249027260294e400714e28"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"

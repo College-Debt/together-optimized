@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "15.0.0-beta.2",
+    "versionId": "15.0.0-beta.3",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -80,34 +80,34 @@
             "fileSize": 99586
         },
         {
-            "path": "mods/Ixeris-4.6.10+26.3-fabric.jar",
+            "path": "mods/Ixeris-4.6.11-26.3-fabric.jar",
             "hashes": {
-                "sha1": "4b1491b45a962616d7abb6bd87a5a312aead1e7e",
-                "sha512": "a7f2d00280d56355a2d79ae29af92c5befe60c1b69969dfd2674e3f7f5bd949ed79be7f26afd7077d713049306b64c28ae607f1e3aab02561a846f54518e1c0e"
+                "sha1": "c45c38e918fa8565abe03904d366faac7ec6b229",
+                "sha512": "f7e63c8721c200c56c860188d142699db7b5133cc6354b536660016b26345b83375d0dd14b98971e48e96faa22c261f2a30ea444fe68237064d72f2b4c4ca345"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/p8RJPJIC/versions/sjqczBmY/Ixeris-4.6.10%2B26.3-fabric.jar"
+                "https://cdn.modrinth.com/data/p8RJPJIC/versions/mj30lAl8/Ixeris-4.6.11%2B26.3-fabric.jar"
             ],
-            "fileSize": 768855
+            "fileSize": 769078
         },
         {
-            "path": "mods/animatica-0.6.3+26.3.jar",
+            "path": "mods/animatica-0.7.0+beta.3+26.3-fabric.jar",
             "hashes": {
-                "sha1": "c24b269d5cb523800bce90920de13ce7f042ba80",
-                "sha512": "e4e7e824803a9bd946318575ca4d1b55f78cb588fd08f621000deaa89bac2579d3d73aa410e3969bba709fac41c15cf1b71bb9e8c2217d904139b584924a043f"
+                "sha1": "3079d66d03aa294b75d0ca236874b09b19422e96",
+                "sha512": "80d7019b235390da1e8d745a65463fb79fa9552982e9dd3ec85218a9b0b387fc3a08d371b8c00c0504081685b813daadf26533fd5f8c7399be0612c04e0bdfbf"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/xEyZuswh/versions/doj27VCh/animatica-0.6.3%2B26.3.jar"
+                "https://cdn.modrinth.com/data/xEyZuswh/versions/6kPLR90Q/animatica-0.7.0%2Bbeta.3%2B26.3-fabric.jar"
             ],
-            "fileSize": 117502
+            "fileSize": 124415
         },
         {
             "path": "mods/bbe-fabric-1.4.0+mc26.3-mod.jar",
@@ -200,6 +200,21 @@
             "fileSize": 6410187
         },
         {
+            "path": "mods/cwb-5.0.0+26.3.jar",
+            "hashes": {
+                "sha1": "7e75cee129623fd6549df2915413e4afc36acf39",
+                "sha512": "abd2338408c3e46f02ef8741379d02a4bf34e6cf952d707f6f3cb145b9333c20b80bc787c03432a292d61e82a9453b9ebecd0ba3c7d50450b5087322914c1efc"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/ETlrkaYF/versions/26KCwNI9/cwb-5.0.0%2B26.3.jar"
+            ],
+            "fileSize": 95121
+        },
+        {
             "path": "mods/debugify-26.3.0.0.jar",
             "hashes": {
                 "sha1": "62876ccaaaaad48c04499e4cf211433dc6c6e53b",
@@ -290,19 +305,19 @@
             "fileSize": 1508547
         },
         {
-            "path": "mods/fabric-api-0.164.0+26.3.jar",
+            "path": "mods/fabric-api-0.165.0+26.3.jar",
             "hashes": {
-                "sha1": "7ec45ba92a286ed7d0c57bcd74cf9182789741ec",
-                "sha512": "2ce7b0826f75801a56e8150eb5ceca467cdf8b4b44e160b5a5381e5412567d024f46a16c679f29c4a9346b2687fa1740f91ed6026a31b2ed1f3d4b5035968d69"
+                "sha1": "8f8a23d6c9fbf7b075b31b4fb0a1007b0488d1d2",
+                "sha512": "0a4b8a14e847b71567b557b43d906c2167fa263eeeef37454a821ba286996e3da1616dc2d9647736d28a250d5ecf400541cae808359b29a62324a8a6f2ad5e30"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/LEklt8GT/fabric-api-0.164.0%2B26.3.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/EQKgpeKu/fabric-api-0.165.0%2B26.3.jar"
             ],
-            "fileSize": 1775592
+            "fileSize": 1778588
         },
         {
             "path": "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
@@ -395,19 +410,19 @@
             "fileSize": 79325
         },
         {
-            "path": "mods/lithium-fabric-0.26.2+mc26.3.jar",
+            "path": "mods/lithium-fabric-0.26.3-mc26.3.jar",
             "hashes": {
-                "sha1": "dd5a4ec2c68d7601d8bce9076f789c55a5f8bef3",
-                "sha512": "4d7fee66132eedc71feab9390b92c95d7058edbdad0fecfac1d836a2950b97a7ca463afbede61c7ef361ce65e1f927ab9e89dde5bf2e0e0ce486afb5c5dbee40"
+                "sha1": "2d3afe9d43bb2549e23479d8d93e644ff366bebf",
+                "sha512": "2ca92fb530135d2baddf0ba4cc4f93976234876a38c4aa02b487b2552400f005afcfbeebf5373fb4396fe2020537a42d7597b8da5a52b904355ef51d5fef07ad"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xS0Q8LSi/lithium-fabric-0.26.2%2Bmc26.3.jar"
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/fWv5bnZk/lithium-fabric-0.26.3%2Bmc26.3.jar"
             ],
-            "fileSize": 914543
+            "fileSize": 919892
         },
         {
             "path": "mods/main-menu-credits-1.4.0+26.2-universal.jar",
@@ -620,19 +635,19 @@
             "fileSize": 306236
         },
         {
-            "path": "mods/sodium-extra-fabric-0.9.4+mc26.3.jar",
+            "path": "mods/sodium-extra-fabric-0.9.5+mc26.3.jar",
             "hashes": {
-                "sha1": "ff2056f222b751fe161123e71e55afd5b2f41da4",
-                "sha512": "a2e8d8416a556b7a351460a06407119eaba62f06636377001720bbda9b797dc881b2bb4528fb75a0459fee34475db529858633b6b86b545a72d0f13cf3c2b7bb"
+                "sha1": "f0201a1b67f3405de7152fec484228db45dcbece",
+                "sha512": "785632a8e0081a207124ad72f0862216902b89f40d4133d91b9f9553c0fe345478685630505eaba2fd6e49fdcc388414dd1ad9694cd15a0c29a8fbe0bec8d022"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PtjYWJkn/versions/te2y9qZn/sodium-extra-fabric-0.9.4%2Bmc26.3.jar"
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/fs5l9Q1U/sodium-extra-fabric-0.9.5%2Bmc26.3.jar"
             ],
-            "fileSize": 465553
+            "fileSize": 481973
         },
         {
             "path": "mods/sodium-fabric-0.9.2+mc26.3.jar",
@@ -712,21 +727,21 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "49fa8ef2ee0d0866f924cd10b62c2f0fea0e5857",
-                "sha512": "affed4f72a476dfa7760d4cec87effd174380103df63b7c3ae3a61a4e72af6c0ec624432259f017b4eaff5855a708766007a1ce538bd440ad8fc89b85366f3ba"
+                "sha1": "3741e7e5f02f554a20f40d2a12a0d6ddfa2e0198",
+                "sha512": "20fe815e4327ba55576ac20fd4c68a6d0598c549f752aea18dcbb34ba82d34234a34b5b7a6373e5b19b9769008a1ce8872a289d7f904dee618ed7bce9b6eddf4"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/zKydr9Li/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/bo4O33l6/SodiumTranslations.zip"
             ],
-            "fileSize": 286613
+            "fileSize": 288636
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.19.5",
+        "fabric-loader": "0.20.1",
         "minecraft": "26.3"
     }
 }

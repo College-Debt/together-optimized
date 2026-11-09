@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/reflex-antilag.pw.toml"
-hash = "7a951ad471771be8951001948d44724dde36a3b7fc5e70ac40db02b2fece3ad1"
+hash = "9006beb450e4bffa96920f0d0d1c537af66bc7abaf0824a190f203294f0c9f1b"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "4a28e335b5f26c1bab02d68bc69e8acbd64a06ba1649c82ae385b2f932c5422d"
+hash = "87dd2d316b4f8b58f0a980e98015733cba77412de3690c49a724c9a12c094592"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "5d8684dd1a8ab2d58e0e8accb13b8e47295388a34a249027260294e400714e28"
+hash = "d4184d57ef0cf06bc622e7c897024929428532111ede43397fc8f8a9c38926db"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"

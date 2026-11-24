@@ -1,12 +1,12 @@
 name = "Together Optimized"
 author = "CherryQuartzio"
-version = "15.0.0-beta.4.1"
+version = "15.0.0-beta.4.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5641d1b4051e590e700f82099488669860ccd48fa5e15423d7f957489a0e4071"
+hash = "d80c3ef8425a30baed8a35a27537938334d84620f6794140c3cad4d9463c4421"
 
 [versions]
 fabric = "0.20.1"

@@ -2,6 +2,17 @@
 
 Fork-specific notes for **Together Optimized** (College Debt SMP). Upstream Fabulously Optimized release notes live in the [upstream CHANGELOG](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md).
 
+## 15.0.0-beta.4.2 (2026-11-24)
+
+Fork mods updated
+
+### Fork mod status
+
+#### Minecraft 26.3
+
+Updated:
+- `nvidium` → 0.4.4-beta8-26.3
+
 ## 15.0.0-beta.4.1 (2026-11-16)
 
 Upstream FO version base changed (15.0.0-beta.3 -> 15.0.0-beta.4)

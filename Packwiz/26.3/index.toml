@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "8e53807b917e2df9001d9da63fa43fade8ae1db6ce98853692c16c5be48b96d3"
+hash = "fcaea2ee881bd8c13212bbef8b49a4dfba899c7ccdce048d2fb7d81099c631ca"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "d76c2091da5a7c27da396f6ef385b2518a507ff67959052221b9b7b8283b4b01"
+hash = "7156498cb05185fa63fdb14f4769e7c500dfc0be25d71aba2b6ea800c524cf0c"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
